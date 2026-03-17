@@ -1,9 +1,9 @@
-#Log-File Cleaner
+# Log-File Cleaner
 
 This script helps with system administration by automatically removing old log files to free up disk space.
 It is useful for maintaining server health and preventing storage issues caused by runaway log growth.
 
-#Features
+## Features
 
 Scan a specified directory for files with the .log extension
 
@@ -13,11 +13,11 @@ Simple command line interface
 
 Safety feedback in the console showing deleted files
 
-Requirements
+## Requirements
 
 Python 3
 
-Usage
+## Usage
 
 Run the script:
 
@@ -26,7 +26,7 @@ python log_cleaner.py
 
 Then follow the prompts to enter the path and the age threshold.
 
-Example Output
+## Example Output
 
 --- Log-File Cleaner (Python 3) ---
 Path to log folder: C:\Server\Logs
@@ -38,7 +38,7 @@ Deleted: error_january.log
 Total cleanup finished.
 
 
-Use Cases
+## Use Cases
 
 Automated server maintenance
 
