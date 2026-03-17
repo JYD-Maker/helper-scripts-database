@@ -24,11 +24,7 @@ Run the script:
 python log_cleaner.py
 
 
-Then follow the prompts:
-
-Enter the full path to the log directory (e.g., C:\Logs or .)
-
-Enter the number of days a file is allowed to stay before deletion (e.g., 7)
+Then follow the prompts to enter the path and the age threshold.
 
 Example Output
 
@@ -40,6 +36,7 @@ Searching for .log files in C:\Server\Logs...
 Deleted: access_old.log
 Deleted: error_january.log
 Total cleanup finished.
+
 
 Use Cases
 
