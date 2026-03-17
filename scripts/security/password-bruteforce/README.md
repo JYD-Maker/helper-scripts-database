@@ -15,11 +15,7 @@ It is useful for learning how password attacks work and understanding the import
 
 ## Requirements
 
-Python 3 must be installed.
-
-Check your Python version:
-
-python --version
+Python 3
 
 ## Usage
 
