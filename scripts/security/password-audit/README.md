@@ -15,11 +15,7 @@ It is useful for security audits, password policy checks, and learning password 
 
 ## Requirements
 
-Python 3 must be installed.
-
-Check your Python version:
-
-python --version
+Python 3
 
 ## Usage
 
