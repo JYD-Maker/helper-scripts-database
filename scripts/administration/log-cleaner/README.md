@@ -1,9 +1,9 @@
-Log-File Cleaner
+#Log-File Cleaner
 
 This script helps with system administration by automatically removing old log files to free up disk space.
 It is useful for maintaining server health and preventing storage issues caused by runaway log growth.
 
-Features
+#Features
 
 Scan a specified directory for files with the .log extension
 
