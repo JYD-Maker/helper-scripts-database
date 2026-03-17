@@ -18,8 +18,6 @@ Supported algorithms include:
 
 Python 3
 
-No additional libraries required.
-
 ## Usage
 
 Run the script:

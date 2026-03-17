@@ -13,11 +13,7 @@ It is useful for learning encoding techniques and working with encoded data.
 
 ## Requirements
 
-Python 3 must be installed.
-
-Check your Python version:
-
-python --version
+Python 3
 
 ## Usage
 
