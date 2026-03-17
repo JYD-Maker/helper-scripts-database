@@ -16,11 +16,7 @@ It is useful for learning authentication basics, password security, and how logi
 
 ## Requirements
 
-Python 3 must be installed.
-
-Check your Python version:
-
-python --version
+Python 3
 
 ## Usage
 
