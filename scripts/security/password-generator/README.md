@@ -14,8 +14,6 @@ It uses cryptographically secure randomness to create strong passwords.
 
 Python 3
 
-No additional libraries required.
-
 ## Usage
 
 Run the script:
